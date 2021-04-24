@@ -2,3 +2,4 @@ menambahkan boostrap5
 *menambah fitur 
 menambah portfolio
 menambah animasi
+jquary
